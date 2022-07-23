@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" width="250"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://t.me/ValeriaPetrovaa">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>    
+  <a href="mailto:v.petrova@g.nsu.ru" align="center">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
+<div id="viewers" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ValeriaPetrova&style=flat-square&color=blue" alt="" />
+</div>
