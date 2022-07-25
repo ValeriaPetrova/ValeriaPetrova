@@ -1,11 +1,11 @@
 ### Hi there :dizzy:
 - :woman_technologist: I'm fourth year university Student from Novosibirsk
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://t.me/ValeriaPetrovaa">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>    
@@ -15,9 +15,6 @@
   <a href="https://vk.com/valeria_petrovaa">
     <img src="https://img.shields.io/badge/VK-royalblue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
-</div>
-<div id="viewers" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ValeriaPetrova&style=flat-square&color=blue" alt="" />
 </div>
 
 ---
