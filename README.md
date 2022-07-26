@@ -6,13 +6,13 @@
 </div>
 
 <div id="badges" align="left">
-  <a href="https://t.me/ValeriaPetrovaa">
+  <a href="https://t.me/valvifor">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>    
   <a href="mailto:v.petrova@g.nsu.ru" align="center">
     <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://vk.com/valeria_petrovaa">
+  <a href="https://vk.com/valvifor">
     <img src="https://img.shields.io/badge/VK-royalblue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
