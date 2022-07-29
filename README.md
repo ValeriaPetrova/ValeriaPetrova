@@ -44,5 +44,5 @@
 
 ## My Stats
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeriaPetrova&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=6&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML,Dockerfile&locale=en" alt="ValeriaPetrova" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valvifor&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=6&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML,Dockerfile&locale=en" alt="ValeriaPetrova" />
 </div>
